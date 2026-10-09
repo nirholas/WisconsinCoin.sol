@@ -12,3 +12,7 @@ The WISCO test contract was deployed to the Ropsten testnet at address
 `0x944c822831334ee051b9e5dc86dc764bb6f7b878`.
 
 Ropsten was deprecated and shut down in late 2022, so the original block explorer link no longer resolves and the deployment is no longer reachable. The address is kept here for historical reference only.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/WisconsinCoin.sol&type=Date)](https://www.star-history.com/#nirholas/WisconsinCoin.sol&Date)
